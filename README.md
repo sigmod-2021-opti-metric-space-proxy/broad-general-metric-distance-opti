@@ -1,10 +1,12 @@
 # distance_opti_plug_in
-- [ ] ToDo 
-   - [ ] Decide on clustering algorithm from recent times
+- [x] ToDo 
+   - [x] Code for TLAESA
+   - [x] Code for DFT with CPLEX API
+   - [x] Decide on clustering algorithm from recent times
       - [x] Ask Dr Das about [http://www1.se.cuhk.edu.hk/~hcheng/summer2010/paper/vldb09-175.pdf]
       - [x] Find out improvements to existing clustering algorithms in metric space
-         - [ ] Accelerated Hierarchical Density Clustering [https://arxiv.org/pdf/1705.07321.pdf]
-         - [ ] Found a very interesting paper. Clustering with Same-Cluster Queries[https://papers.nips.cc/paper/6449-clustering-with-same-cluster-queries.pdf]
+         - [x] Accelerated Hierarchical Density Clustering [https://arxiv.org/pdf/1705.07321.pdf]
+         - [x] Found a very interesting paper. Clustering with Same-Cluster Queries[https://papers.nips.cc/paper/6449-clustering-with-same-cluster-queries.pdf]
    - [x] Code for Trisearch
    - [x] Sasha Wang code [http://vldb.org/conf/1990/P602.PDF]
    - [x] Our Algo Code 
