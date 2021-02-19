@@ -14,9 +14,8 @@
    - [x] Code the bottom-up approach (Agglomertaive Hierarchical Routing)
    - [x] Our code for sampling different graphs
    - [x] NlogN graph generation
-   - [ ] kNN 
-      - [ ] PLNS : M-tree based algorithm
-      - [ ] kNNrp
+   - [x] kNN 
+      - [x] kNNrp
    - [x] k medoid 
       - [x] PAM
       - [x] CLARANS
@@ -25,7 +24,7 @@
       - [x] Kruskal's algorithm
 
 ## Questions 
-   - [ ] how about the PAM. How are we going to adjust for the no chaning medoids for estimated cases
+   - [x] how about the PAM. How are we going to adjust for the no chaning medoids for estimated cases
 
 ## References
 1. [Can we use this for our sampling?] Approximating a Finite Metric by a Small Number of Tree Metrics. [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=743488]
